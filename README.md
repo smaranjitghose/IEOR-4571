@@ -6,7 +6,7 @@
 | 2     | Application of Asset Swap     | [Soln](./solutions/)                                 |
 | 3     | Bond Duration                 | [Soln](./solutions/)                                 |
 | 4     | Mark to Market and Asset Swap | [Soln](./solutions/)                                 |
-| 5     | FX Spot and Forwards          | [Soln](./solutions/)                                 |
+| 5     | FX Spot and Forwards          | [Soln](./solutions/hw5_FX_Spot_and_Forwards.ipynb)   |
 | 6     | Commodities and Back Testing  | [Soln](./solutions/hw6_Commodities.ipynb)            |
 | 7     | Equity Valuation              | [Soln](./solutions/hw7_Equity_Valuation.ipynb)       |
 | 8     | Efficient Frontier            | [Soln](./solutions/hw8_Efficient_Frontier.ipynb)     |
